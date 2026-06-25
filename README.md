@@ -8,9 +8,9 @@
 
 - 🌱 I am currently interested in DevOps and AI/ML
 
-- 📫 Reach me at: **muhammadfasih969@gmail.com**
+- 📫 Reach me at my Email: **muhammadfasih969@gmail.com**
 
-- 🚀 Connect with me on [LinkedIn](https://www.linkedin.com/in/muhammad-fasih-cs/)
+- 🚀 Connect with me on LinkedIn: [Connect Now!](https://www.linkedin.com/in/muhammad-fasih-cs/)
 
 <h3 align="left">Tools I've used:</h3>
 <p align="left">
