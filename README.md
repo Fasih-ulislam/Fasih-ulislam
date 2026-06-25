@@ -1,5 +1,5 @@
 <p align="center">
-    <img alt="Coding" width="1000" src="https://raw.githubusercontent.com/oopaze/oopaze/refs/heads/main/code.gif">
+    <img alt="Coding" width="600" src="https://raw.githubusercontent.com/oopaze/oopaze/refs/heads/main/code.gif">
 </p>
 <h1 align="center">Hi 👋, I'm Muhammad Fasih ul Islam</h1>
 <h3 align="center">Computer Science undergrad from Pakistan</h3>
