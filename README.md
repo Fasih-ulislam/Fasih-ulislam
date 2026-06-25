@@ -1,19 +1,18 @@
+<p align="center">
+    <img alt="Coding" width="400" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
+</p>
 <h1 align="center">Hi 👋, I'm Muhammad Fasih ul Islam</h1>
-<h3 align="center">A backend-focused Computer Science undergrad from Pakistan</h3>
+<h3 align="center">Computer Science undergrad from Pakistan</h3>
 
-- 🎓 CS undergrad at **NUST**, Islamabad
+- 💻 I have worked with backend and full stack development
 
-- 💻 I build backend systems — payment processing, real-time event streaming, distributed architectures, and device/IoT integrations
-
-- 👯 I'm open to collaborating on **backend systems, payments infrastructure, and DevOps tooling**
-
-- 💬 Ask me about **Node.js/Express, PostgreSQL, Stripe integrations, or system design**
+- 🌱 I am currently interested in DevOps and AI/ML
 
 - 📫 Reach me at: **muhammadfasih969@gmail.com**
 
-- 🚀 Connect with me on [LinkedIn](https://linkedin.com)
+- 🚀 Connect with me on [LinkedIn](https://www.linkedin.com/in/muhammad-fasih-cs/)x
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Tools I've used:</h3>
 <p align="left">
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
 <a href="https://isocpp.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
@@ -36,15 +35,5 @@
 <a href="https://www.nginx.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-<a href="https://stripe.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/stripe/stripe-original.svg" alt="stripe" width="40" height="40"/> </a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg" alt="firebase" width="40" height="40"/> </a>
-</p>
-
-<h3 align="left">GitHub Stats:</h3>
-<p align="left">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Fasih-ulislam&show_icons=true&theme=radical" alt="Fasih-ulislam" />
-</p>
-
-<p align="left">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Fasih-ulislam&theme=radical" alt="Fasih-ulislam" />
 </p>
