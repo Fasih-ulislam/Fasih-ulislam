@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Muhammad Fasih ul Islam</h1>
-<h3 align="center">A backend-focused Computer Science undergrad from Pakistan, building payments, real-time systems, and IoT integrations</h3>
+<h3 align="center">A backend-focused Computer Science undergrad from Pakistan</h3>
 
 - 🎓 CS undergrad at **NUST**, Islamabad
 
-- 🔭 Currently building **BusGuard** — a Hikvision face-recognition access control backend for school buses
+- 💻 I build backend systems — payment processing, real-time event streaming, distributed architectures, and device/IoT integrations
 
-- 🌱 Expanding into **DevOps** (Nginx, systemd, UFW) and **AI engineering**
+- 👯 I'm open to collaborating on **backend systems, payments infrastructure, and DevOps tooling**
 
-- 👯 I'm looking to collaborate on **backend systems, payments infrastructure, and DevOps tooling**
-
-- 💬 Ask me about **Node.js/Express, PostgreSQL replication, Stripe integrations, or IoT device protocols**
+- 💬 Ask me about **Node.js/Express, PostgreSQL, Stripe integrations, or system design**
 
 - 📫 Reach me at: **muhammadfasih969@gmail.com**
 
@@ -42,9 +40,11 @@
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg" alt="firebase" width="40" height="40"/> </a>
 </p>
 
-<h3 align="left">Featured Projects:</h3>
+<h3 align="left">GitHub Stats:</h3>
+<p align="left">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Fasih-ulislam&show_icons=true&theme=radical" alt="Fasih-ulislam" />
+</p>
 
-- 🏗️ **[TrustFund](https://github.com/Fasih-ulislam)** — Milestone-based crowdfunding platform with escrow, Stripe Connect payouts, Nginx-load-balanced Node.js, and PostgreSQL streaming replication
-- 📷 **[BusGuard / Face Recognition Access Control](https://github.com/Fasih-ulislam)** — Real-time Hikvision ISAPI integration for school bus access control, with custom Digest Auth and multipart alert stream parsing
-- 🔗 **[Supply Chain Management System](https://github.com/Fasih-ulislam)** — Multi-role order lifecycle platform secured with RSA signatures and QR-based tamper detection
-- 📋 **[Project Management System](https://github.com/Fasih-ulislam)** — Spring Boot 3 REST API with role-based access control and per-task progress tracking
+<p align="left">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Fasih-ulislam&theme=radical" alt="Fasih-ulislam" />
+</p>
