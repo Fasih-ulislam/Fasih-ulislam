@@ -1,5 +1,5 @@
 <p align="center">
-    <img alt="Coding" width="400" src="https://raw.githubusercontent.com/oopaze/oopaze/refs/heads/main/code.gif">
+    <img alt="Coding" width="1000" src="https://raw.githubusercontent.com/oopaze/oopaze/refs/heads/main/code.gif">
 </p>
 <h1 align="center">Hi 👋, I'm Muhammad Fasih ul Islam</h1>
 <h3 align="center">Computer Science undergrad from Pakistan</h3>
@@ -10,7 +10,7 @@
 
 - 📫 Reach me at: **muhammadfasih969@gmail.com**
 
-- 🚀 Connect with me on [LinkedIn](https://linkedin.com)
+- 🚀 Connect with me on [LinkedIn](https://www.linkedin.com/in/muhammad-fasih-cs/)
 
 <h3 align="left">Tools I've used:</h3>
 <p align="left">
